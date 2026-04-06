@@ -77,9 +77,3 @@ El proyecto reemplaza `**HASH**` automáticamente al arrancar:
 - GET `/api/socios/me/membresia`
 - GET `/api/socios/me/asistencias`
 - GET `/api/socios/me/rutinas`
-
-## 7) Para cumplir la rúbrica al máximo
-- Exporta colección Postman
-- Sube README.md
-- Adjunta informe PDF con capturas
-- Si el docente exige Scaffold-DbContext explícito, genera el scaffold y compara con `Data/Entities` y `GimnasioDbContext`.
